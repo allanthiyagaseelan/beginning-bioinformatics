@@ -1,2 +1,2 @@
 # beginning-bioinformatics
-Beginning bioinformatics 5340
+Allan Thiyagaseelan + 1002304701 + BIOL5340-001
